@@ -1,6 +1,6 @@
 # React Talk
 
-Brief tech talk about React and React-Native that I presented at [Bending Spoons](bendingspoons.com).
+Brief tech talk about React and React-Native that I presented at [Bending Spoons](http://bendingspoons.com).
 
 ### Bending Spoons
 
